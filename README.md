@@ -1,2 +1,2 @@
 # Django-with-Celery
-This is a tutorial repository that demonstrates how to use Celery and Redis in a Django project for managing asynchronous tasks. In this tutorial, you'll learn about the effective use cases for Celery, the difference between Celery Beat and Celery workers, and how to integrate Celery and Redis into your Django project. We'll also cover setting up asynchronous tasks that run independently of your Django app and refactoring Django code to use Celery for task execution.
+This is a tutorial repository that demonstrates how to use Celery and Redis in a Django project for managing asynchronous tasks.
